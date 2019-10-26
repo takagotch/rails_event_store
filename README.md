@@ -6,6 +6,8 @@ https://railseventstore.org/docs/install/
 
 ```sh
 
+
+
 ```
 
 ```
